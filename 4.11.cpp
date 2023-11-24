@@ -28,7 +28,6 @@ int main() {
         a += x * (j + 5) * k;
     }
 
-
     std::cout << "Число i =  " << i << "\nЧисло a = " << a << "\nЧисло z = " << z << std::endl;
 
     return 0;
