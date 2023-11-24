@@ -6,7 +6,7 @@ int main() {
     double a1, b1, x;
     int i = 11;
     int k = i;
-    int low = k - i;
+    int low = k = i;
     int up = i + 5;
     int up1 = i + 8;
 
